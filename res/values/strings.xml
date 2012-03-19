@@ -3,5 +3,8 @@
 
     <string name="hello">Hello World, Now!</string>
     <string name="app_name">Now</string>
+    <string name="Name">Name</string>
+    <string name="Address">Address</string>
+    <string name="Save">Save</string>
 
 </resources>
